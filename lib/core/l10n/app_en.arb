@@ -1,0 +1,119 @@
+{
+  "@@locale": "en",
+  "appTitle": "WorkTracker Pro",
+  "@appTitle": {
+    "description": "The title of the application"
+  },
+  "appSubtitle": "Track your work hours with GPS",
+  "@appSubtitle": {
+    "description": "The subtitle of the application"
+  },
+  "goodMorning": "Good Morning!",
+  "@goodMorning": {
+    "description": "Morning greeting"
+  },
+  "goodAfternoon": "Good Afternoon!",
+  "@goodAfternoon": {
+    "description": "Afternoon greeting"
+  },
+  "goodEvening": "Good Evening!",
+  "@goodEvening": {
+    "description": "Evening greeting"
+  },
+  "currentStatus": "Current Status",
+  "@currentStatus": {
+    "description": "Label for current work status"
+  },
+  "working": "Working",
+  "@working": {
+    "description": "Status when user is working"
+  },
+  "notWorking": "Not Working",
+  "@notWorking": {
+    "description": "Status when user is not working"
+  },
+  "startWork": "Start Work",
+  "@startWork": {
+    "description": "Button to start work"
+  },
+  "endWork": "End Work",
+  "@endWork": {
+    "description": "Button to end work"
+  },
+  "todayHours": "Today's Hours",
+  "@todayHours": {
+    "description": "Label for hours worked today"
+  },
+  "thisWeek": "This Week",
+  "@thisWeek": {
+    "description": "Label for this week's hours"
+  },
+  "thisMonth": "This Month",
+  "@thisMonth": {
+    "description": "Label for this month's hours"
+  },
+  "recentActivity": "Recent Activity",
+  "@recentActivity": {
+    "description": "Label for recent work activity"
+  },
+  "startedWork": "Started work",
+  "@startedWork": {
+    "description": "Message when work is started"
+  },
+  "endedWork": "Ended work",
+  "@endedWork": {
+    "description": "Message when work is ended"
+  },
+  "username": "Username",
+  "@username": {
+    "description": "Label for username field"
+  },
+  "password": "Password",
+  "@password": {
+    "description": "Label for password field"
+  },
+  "login": "Login",
+  "@login": {
+    "description": "Login button text"
+  },
+  "logout": "Logout",
+  "@logout": {
+    "description": "Logout button text"
+  },
+  "admin": "Admin",
+  "@admin": {
+    "description": "Admin role"
+  },
+  "employee": "Employee",
+  "@employee": {
+    "description": "Employee role"
+  },
+  "demoCredentials": "Demo Credentials",
+  "@demoCredentials": {
+    "description": "Header for demo login credentials"
+  },
+  "locationPermissionRequired": "Location permission is required",
+  "@locationPermissionRequired": {
+    "description": "Error message when location permission is needed"
+  },
+  "locationServiceDisabled": "Location service is disabled",
+  "@locationServiceDisabled": {
+    "description": "Error message when location service is disabled"
+  },
+  "currentLocation": "Current Location",
+  "@currentLocation": {
+    "description": "Label for current location"
+  },
+  "workStarted": "Work Started!",
+  "@workStarted": {
+    "description": "Success message when work is started"
+  },
+  "workEnded": "Work Ended!",
+  "@workEnded": {
+    "description": "Success message when work is ended"
+  },
+  "workSessionLogged": "Your work session has been logged successfully.",
+  "@workSessionLogged": {
+    "description": "Success message after logging work session"
+  }
+}
