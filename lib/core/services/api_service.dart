@@ -4,7 +4,7 @@ import '../models/user.dart';
 import '../models/work_log.dart';
 
 class ApiService {
-  static const String baseUrl = 'http://your-server-url.com'; // Update this
+  static const String baseUrl = 'https://workspace.yavuzsahins.repl.co';
   
   Map<String, String> get _headers => {
     'Content-Type': 'application/json',
